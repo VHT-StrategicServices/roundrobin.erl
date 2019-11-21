@@ -1,5 +1,4 @@
 *~
-ebin
-deps
 log
 .eunit
+_build
