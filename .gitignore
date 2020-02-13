@@ -1,4 +1,4 @@
 *~
 log
-.eunit
 _build
+rebar3.crashdump
